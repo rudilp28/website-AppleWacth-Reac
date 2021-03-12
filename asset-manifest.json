@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website-AppleWacth-Reac/static/css/main.6f5793b8.chunk.css",
+    "main.js": "/website-AppleWacth-Reac/static/js/main.7c968fcc.chunk.js",
+    "main.js.map": "/website-AppleWacth-Reac/static/js/main.7c968fcc.chunk.js.map",
+    "runtime-main.js": "/website-AppleWacth-Reac/static/js/runtime-main.6bce9c70.js",
+    "runtime-main.js.map": "/website-AppleWacth-Reac/static/js/runtime-main.6bce9c70.js.map",
+    "static/js/2.76141f33.chunk.js": "/website-AppleWacth-Reac/static/js/2.76141f33.chunk.js",
+    "static/js/2.76141f33.chunk.js.map": "/website-AppleWacth-Reac/static/js/2.76141f33.chunk.js.map",
+    "static/js/3.6187a8f9.chunk.js": "/website-AppleWacth-Reac/static/js/3.6187a8f9.chunk.js",
+    "static/js/3.6187a8f9.chunk.js.map": "/website-AppleWacth-Reac/static/js/3.6187a8f9.chunk.js.map",
+    "index.html": "/website-AppleWacth-Reac/index.html",
+    "static/css/main.6f5793b8.chunk.css.map": "/website-AppleWacth-Reac/static/css/main.6f5793b8.chunk.css.map",
+    "static/js/2.76141f33.chunk.js.LICENSE.txt": "/website-AppleWacth-Reac/static/js/2.76141f33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bce9c70.js",
+    "static/js/2.76141f33.chunk.js",
+    "static/css/main.6f5793b8.chunk.css",
+    "static/js/main.7c968fcc.chunk.js"
+  ]
+}
