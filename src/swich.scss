@@ -71,9 +71,9 @@ h1.title {
     text-align: center;
     padding: 20px 0;
     position: absolute;
-    bottom: 0;
     left: 50%;
-    transform: translate(-50%);
+    bottom: -5%;
+    transform: translate(-50%, -50%);
     div {
         cursor: pointer;
         width: 30px;
@@ -112,6 +112,7 @@ h1.title {
         }
     }
 }
+
 
 
 .img1 {
@@ -161,6 +162,7 @@ h1.title {
         left: 80%;
         transform: translate(-50%, -50%); 
         }
+        
         &::before {
         content: '';
         border-radius: 30px;
@@ -556,7 +558,7 @@ h1.title {
     .theme-option {
         width: 100%;
         left: 50%;
-        transform: translate(-52%);
+        transform: translate(-50%, -25%);
     }
     .theme-option img {
         width: 40px;

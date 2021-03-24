@@ -98,6 +98,15 @@
     cursor: pointer;
   }
 
+  
+  
+  .lupa:hover{
+    transform: scale(1.08);
+  }
+  .carinho:hover{
+    transform: scale(1.08);
+  }
+
   #apple{
       position: absolute;
       /* top: 45%;
@@ -105,12 +114,12 @@
       transform: translate(-80%, -50%);
       width: 60px;
       height: 60px;
-      animation: fill 0.5s ease forwards 2.2s;
+      animation: fill 1.5s ease forwards 4.2s;
   }
   #apple path:nth-child(1){
       stroke-dasharray: 977;
       stroke-dashoffset: 977;
-      animation: line-animation 4.5s ease forwards;
+      animation: line-animation 8.5s ease forwards;
   }
 
   @keyframes line-animation {
@@ -127,6 +136,9 @@
           fill: #e8e8e8;
       }
   }
+
+
+  
   
   @media screen and (max-width: 960px) {
 

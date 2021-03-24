@@ -29,6 +29,9 @@ function Navbar() {
     console.log(`icon ${i} is ${apple[i].getTotalLength()}`);
   }
 
+
+  
+
   return (
     
     <>
@@ -92,7 +95,7 @@ function Navbar() {
               </div>
             </li> */}
           </ul>
-          {button && <div to='/sign-up'><div className="logo2"><img src="https://i.ibb.co/2tVDFZY/lupa.png" alt=""/><img src="https://i.ibb.co/n1rLbtf/cesta.png" alt=""/></div> </div>}
+          {button && <div to='/sign-up'><div className="logo2"><div className="lupa"> <img src="https://i.ibb.co/2tVDFZY/lupa.png" alt=""/></div> <div className="carinho"> <img src="https://i.ibb.co/n1rLbtf/cesta.png" alt=""/></div></div> </div>}
 
 
         </div>
